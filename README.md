@@ -1,5 +1,5 @@
 # WegahNulisno
-<h1 align="center">Tulisno</h1>
+<h1 align="center">WegahNulis</h1>
 
 <p>
  WegahNulisno is a website for generating writings into books.
